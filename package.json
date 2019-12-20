@@ -1,0 +1,15 @@
+{
+  "name": "datebaserelationship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node oneToMany.js"
+  },
+  "author": "x-sid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  }
+}
